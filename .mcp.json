@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "xss-scanner": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["xss_mcp_server.py"]
+    }
+  }
+}
